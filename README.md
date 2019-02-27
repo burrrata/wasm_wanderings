@@ -26,10 +26,14 @@
 
 <br>
 
-WebAssembly 🕸️ 
- - wtf is it and why should you care?
-
-
+<div align="center">
+  <h1>
+    WebAssembly 🕸️
+  </h1>
+  <p>
+    wtf is it and why should you care?
+  </p>
+</div>
 
 So Polkadot compiles to WASM. Ethereum 2.0 is also exploring EWASM. What is WASM and why should you care?
 
