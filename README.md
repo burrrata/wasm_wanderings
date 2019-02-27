@@ -31,12 +31,9 @@
     WebAssembly 🕸️
   </h1>
   <p>
-    wtf is it and why should you care?
+    Polkadot compiles to WASM. Ethereum 2.0 is also exploring EWASM. The Web3 team seems to think it's a good idea, and so does the Rust team, and the crypto people, and pretty much everyone else. So what is WASM and why should you care?
   </p>
 </div>
-
-So Polkadot compiles to WASM. Ethereum 2.0 is also exploring EWASM. What is WASM and why should you care?
-
 
 # The TL;DR: 
 
