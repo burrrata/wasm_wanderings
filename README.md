@@ -2,8 +2,10 @@
   <h1 align="center">
     This is a place to gather notes and ideas for all things WASM / Rust / Blockchain related.
   </h1>
-  <p>
+  <div>
+		<p>
     Hopefully this will lead to:
+		</p>
     <ul>
       <li>
         me better understanding how WASM benefits interoperability and safety in Web3
@@ -14,8 +16,8 @@
       <li>
         some templates and resources for people who want to build end-to-end Web3 applications using Substrate, WASM, and IPFS or other Web3 things
       </li>
-  </ul>
-  </p>
+  	</ul>
+  </div>
 </div>
 
 <br>
@@ -78,6 +80,8 @@ WASM
 
 Rust + WASM
 
+- [arewewebyet](https://www.arewewebyet.org/) A compendium of resources for Rust related web dev.
+- [arewewebyet WASM section](https://www.arewewebyet.org/topics/webassembly/)
 - [Code for all things Rust/WASM](https://github.com/rustwasm/)
 - [The Rust 🦀 and WebAssembly 🕸 Book](https://rustwasm.github.io/book/introduction.html)
 - [Rust + WASM walkthrough](https://hacks.mozilla.org/2018/03/making-webassembly-better-for-rust-for-all-languages/)
