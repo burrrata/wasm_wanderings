@@ -3,11 +3,17 @@
     This is a place to gather notes and ideas for all things WASM / Rust / Blockchain related.
   </h1>
   <p>
-    Hopefully this will lead to
+    Hopefully this will lead to:
     <ul>
-    - me better understanding how WASM benefits interoperability and safety in Web3
-    - creating a tutorial to help others understand those things as well
-    - some templates and resources for people who want to build end-to-end Web3 applications using Substrate, WASM, and IPFS or other Web3 things
+      <li>
+        me better understanding how WASM benefits interoperability and safety in Web3
+      </li>
+      <li>
+        creating a tutorial to help others understand those things as well
+      </li>
+      <li>
+        some templates and resources for people who want to build end-to-end Web3 applications using Substrate, WASM, and IPFS or other Web3 things
+      </li>
   </ul>
   </p>
 </div>
