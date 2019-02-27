@@ -4,6 +4,7 @@
   </h1>
   <p>
     Hopefully this will lead to:
+    
     - me better understanding how WASM benefits interoperability and safety in Web3
     - creating a tutorial to help others understand those things as well
     - some templates and resources for people who want to build end-to-end Web3 applications using Substrate, WASM, and IPFS or other Web3 things
