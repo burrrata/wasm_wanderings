@@ -5,5 +5,5 @@
 <br>
 
 <div>
-  <img href="https://hacks.mozilla.org/files/2017/02/01-02-perf_graph10-768x633.png">
+  <img src="https://hacks.mozilla.org/files/2017/02/01-02-perf_graph10-768x633.png">
 </div>
