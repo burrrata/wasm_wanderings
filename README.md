@@ -1,13 +1,22 @@
-<h1>
-  This is a placeholder for all things WASM / Rust / Blockchain related
-</h1>
+<div align="center">
+  <h1>
+    This is a place to gather notes and ideas for all things WASM / Rust / Blockchain related.
+  </h1>
+  <p>
+    Hopefully this will lead to:
+    - me better understanding how WASM benefits interoperability and safety in Web3
+    - creating a tutorial to help others understand those things as well
+    - some templates and resources for people who want to build end-to-end Web3 applications using Substrate, WASM, and IPFS or other Web3 things
+  </p>
+</div>
 
 <br>
 
-<div>
+<div align="center">
   <img src="https://hacks.mozilla.org/files/2017/02/01-02-perf_graph10-768x633.png">
 </div>
 
+<br>
 
 WebAssembly 🕸️ 
  - wtf is it and why should you care?
